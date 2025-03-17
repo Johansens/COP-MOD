@@ -1,12 +1,1 @@
-{
-  "name" : "COP-MP_MOD",
-	"id" : "",
-  "version" : "",
-  "supported_game_version" : "",
-  "short_description" : "",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
-    "multiplayer_synchronized" : true
-  }
-}
+{"name":"COP MP MOD","id":"","version":"","supported_game_version":"","short_description":"","tags":[],"relationships":[]}
